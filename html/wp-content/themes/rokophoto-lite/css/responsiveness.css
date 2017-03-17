@@ -1,0 +1,233 @@
+/*=======================
+Theme: Awesome Photography/Portfolio Template
+This is the Style for Responsiveness
+Author: JLP Media
+Email: jennpereira13@gmail.com / lianplameras@gmail.com
+Version: 1.00 
+Date Created: August 10, 2014
+Updated: August 23, 2014
+=======================*/
+/* MAX 1080px */
+@media (max-width: 1080px) { 
+    .img-responsive,
+    .thumbnail > img,
+    .thumbnail a > img,
+    .carousel-inner > .item > img,
+    .carousel-inner > .item > a > img {
+        max-width: 120%;
+        height: 650px;
+    }
+    h1 { font-size: 5em }
+    .carousel-control.right img,
+    .carousel-control.left img { width: 50px }
+    .pull-right {
+        float: none !important;
+        text-align: center;
+    }
+    #subscribe { text-align: center }
+    p.atext { padding-top: 20px }
+    .vision-border {
+        width: 60%;
+    }
+    .carousel-caption,
+    .slider-item-wrap {
+        height: 650px;
+    }
+}
+
+@media (max-width: 992px) { 
+    #subscribe .page-scroll .right {
+        float: none;
+    }
+}
+
+/* MAX 768px */
+@media (max-width: 768px) { 
+    #about {
+        padding: 70px 0;
+    }
+    .about-content {
+        text-align: center;
+    }
+    h1 { font-size: 4em }
+    p.atext { width: 100% }
+    .carousel-caption,
+    .slider-item-wrap {
+        height: 550px;
+    }
+    .navbar-default .navbar-brand img { 
+        height: 42px 
+    }
+}
+/* MIN 768px */
+@media (min-width: 768px) { 
+    #comments { margin-right: 35px }
+    .comment-avatar {
+        width: 100px;
+        padding-right: 30px;
+    }
+    .commentlist ul { margin-left: 100px }
+}
+/* MAX 720px */
+@media (max-width: 720px) { 
+    .img-responsive,
+    .thumbnail > img,
+    .thumbnail a > img,
+    .carousel-inner > .item > img,
+    .carousel-inner > .item > a > img {
+        width: 300%;
+        height: 550px;
+    }
+    .vision-border {
+        width: 70%;
+    }
+}
+
+/* MAX 560px */
+@media (max-width: 560px) { 
+    .vision-border {
+        width: 90%;
+    }
+    header {
+        overflow: hidden;
+    }
+    h1 {
+        font-size: 3em;
+    }
+    h2 {
+        font-size: 2em;
+        letter-spacing: 4px;
+    }
+    h4 {
+        font-size: 1.5em;
+        letter-spacing: 3px;
+    }
+    h5 {
+        font-size: 1em;
+        word-spacing: 15px;
+    }
+    h6 {
+        font-size: 10px;
+    }  
+    #about h2 {
+        font-size: 2.4em;
+        letter-spacing: 4px;
+        width: 100%;
+    }
+    #site-navigation {
+        position: relative;
+        margin-bottom: 0;
+    }
+    header {
+      overflow: hidden;
+      float: left;
+      width: 100%;
+    }
+
+}
+
+/* MAX 460px */
+@media (max-width: 460px) { 
+    .img-responsive,
+    .thumbnail > img,
+    .thumbnail a > img,
+    .carousel-inner > .item > img,
+    .carousel-inner > .item > a > img {
+        width: 300%;
+        height: 350px;
+        margin-left: -50px;
+    }
+    .dark-overlay {
+        height: 350px;
+        padding-top: 100px;
+    }
+    #blog {
+        background-position: 50%;
+        height: 350px;
+    }
+    h1 {
+        font-size: 2.2em;
+        letter-spacing: 1px;
+    }
+    h6 {
+        font-size: 9px;
+        font-weight: 300;
+    }
+
+    #socials p, #bsocials p {
+        font-size: 12px;
+        letter-spacing: 0px;
+    }
+    #footer {
+        padding-top: 20%;
+        padding-bottom: 10%;
+    }
+    #footer h2 {
+        font-size: 2em;
+        width: 310px;
+        padding: 10px;
+    }
+    #footer p { padding-top: 10px }
+    #footer-nav {
+        padding-top: 40px;
+        font-size: 10px;
+        letter-spacing: 0px;
+    }
+    .vision-border {
+        width: 80%;
+    }
+    .carousel-caption,
+    .slider-item-wrap {
+        height: 350px;
+    }
+    .grid figure p {
+        letter-spacing: 0;
+        line-height: 15px;
+        margin-top: 20px;
+        opacity: 1;
+    }
+    .carousel-control.right {
+        right: 0px;
+    }
+    .carousel-control.left {
+        left: 0px;
+    }
+
+}
+/* MAX 320px */
+@media (max-width: 340px) { 
+    h1 { font-size: 1.5em }
+    figure.effect-layla h2 { font-size: 1.5em }
+    .service-border h4 {
+        font-size: 13px;
+        letter-spacing: 1px;
+    }
+    h6 {
+        font-size: 10px;
+        font-weight: 400;
+    }
+
+    #socials span.follow,  {
+        font-size: 20px;
+        width: 200px;
+        letter-spacing: 1px;
+    }
+    ol.social li { padding: 0 6px }
+    #socials p {
+        font-size: 12px;
+        letter-spacing: 0px;
+    }
+    #socials span.follow {
+        font-size: 20px;
+        letter-spacing: 5px;
+        width: 220px;
+    }
+    #footer h2 {
+        font-size: 1.5em;
+        width: 250px;
+    }
+    #footer p {
+        letter-spacing: 0px;
+        font-size: 12px;
+    }
+}

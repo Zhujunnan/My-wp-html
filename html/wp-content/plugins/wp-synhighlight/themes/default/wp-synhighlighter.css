@@ -1,0 +1,67 @@
+div.wp-synhighlighter-outer {
+
+}
+
+div.wp-synhighlighter-inner {
+    height: auto;
+    max-height: 300px;
+    overflow: auto;
+    background: #E9E9E6 none repeat scroll 0 0;
+    border: 1px solid #C3CBD1;
+    border-left-width: 2px;
+    clear: both;
+    margin: 8px 0;
+    display: block;
+    padding: 0 0 0 14px;
+    line-height: normal;
+    text-align: left;
+    -moz-border-radius: 5px;
+}
+
+div.wp-synhighlighter-collapsed {
+    border: 1px solid #C3CBD1;
+    border-left-width: 2px;
+    clear: both;
+    background: transparent url(images/icon_plus.gif) no-repeat scroll left center;
+    display: block;
+    margin: 8px 0;
+    padding: 0 0 0 14px;
+    line-height: normal;
+    text-align: left;
+    -moz-border-radius: 5px;
+}
+
+div.wp-synhighlighter-expanded {
+    border: 1px solid #C3CBD1;
+    border-left-width: 2px;
+    clear: both;
+    background: transparent url(images/icon_minus.gif) no-repeat scroll left center;
+    display: block;
+    margin: 8px 0;
+    padding: 0 0 0 14px;
+    line-height: normal;
+    text-align: left;
+    -moz-border-radius: 5px;
+}
+
+a.wp-synhighlighter-title {
+    cursor: pointer;
+    font-size: small;
+}
+
+div.wp-synhighlighter-inner pre {
+    background: none;
+    border: none;
+    margin: auto;
+    padding: inherit;
+    line-height: normal;
+}
+
+div.wp-synhighlighter-inner ol {
+    list-style-position: outside !important;
+    padding: 0;
+}
+
+div.wp-synhighlighter-inner li {
+    list-style-position: outside !important
+}

@@ -1,0 +1,22 @@
+editAreaLoader.load_syntax["vim"] = {
+    'COMMENT_SINGLE' : {}, 
+    'COMMENT_MULTI' : {}, 
+    'QUOTEMARKS' : {0: "\'", 1: "\""}, 
+    'KEYWORDS' : {
+        'keywordgroup1': ["brea", "break", "call", "cat", "catc", "catch", "con", "cont", "conti", "contin", "continu", "continue", "ec", "echo", "echoe", "echoer", "echoerr", "echoh", "echohl", "echom", "echoms", "echomsg", "echon", "el", "els", "else", "elsei", "elseif", "en", "end", "endi", "endif", "endfo", "endfor", "endt", "endtr", "endtry", "endw", "endwh", "endwhi", "endwhil", "endwhile", "exe", "exec", "execu", "execut", "execute", "fina", "final", "finall", "finally", "for", "fun", "func", "funct", "functi", "functio", "function", "if", "in", "let", "lockv", "lockva", "lockvar", "retu", "retur", "return", "th", "thr", "thro", "throw", "try", "unl", "unle", "unlet", "unlo", "unloc", "unlock", "unlockv", "unlockva", "unlockvar", "wh", "whi", "whil", "while"],
+        'keywordgroup2': ["autocmd", "com", "comm", "comma", "comman", "command", "comc", "comcl", "comcle", "comclea", "comclear", "delc", "delco", "delcom", "delcomm", "delcomma", "delcomman", "delcommand", "-nargs"],
+        'keywordgroup3': ["abs", "add", "append", "argc", "argidx", "argv", "atan", "browse", "browsedir", "bufexists", "buflisted", "bufloaded", "bufname", "bufnr", "bufwinnr", "byte2line", "byteidx", "ceil", "changenr", "char2nr", "cindent", "clearmatches", "col", "complete", "complete_add", "complete_check", "confirm", "copy", "cos", "count", "cscope_connection", "cursor", "deepcopy", "delete", "did_filetype", "diff_filler", "diff_hlID", "empty", "escape", "eval", "eventhandler", "executable", "exists", "extend", "expand", "feedkeys", "filereadable", "filewritable", "filter", "finddir", "findfile", "float2nr", "floor", "fnameescape", "fnamemodify", "foldclosed", "foldclosedend", "foldlevel", "foldtext", "foldtextresult", "foreground", "garbagecollect", "get", "getbufline", "getbufvar", "getchar", "getcharmod", "getcmdline", "getcmdpos", "getcmdtype", "getcwd", "getfperm", "getfsize", "getfontname", "getftime", "getftype", "getline", "getloclist", "getmatches", "getpid", "getpos", "getqflist", "getreg", "getregtype", "gettabwinvar", "getwinposx", "getwinposy", "getwinvar", "glob", "globpath", "has", "has_key", "haslocaldir", "hasmapto", "histadd", "histdel", "histget", "histnr", "hlexists", "hlID", "hostname", "iconv", "indent", "index", "input", "inputdialog", "inputlist", "inputrestore", "inputsave", "inputsecret", "insert", "isdirectory", "islocked", "items", "join", "keys", "len", "libcall", "libcallnr", "line", "line2byte", "lispindent", "localtime", "log10", "map", "maparg", "mapcheck", "match", "matchadd", "matcharg", "matchdelete", "matchend", "matchlist", "matchstr", "max", "min", "mkdir", "mode", "nextnonblank", "nr2char", "pathshorten", "pow", "prevnonblank", "printf", "pumvisible", "range", "readfile", "reltime", "reltimestr", "remote_expr", "remote_foreground", "remote_peek", "remote_read", "remote_send", "remove", "rename", "repeat", "resolve", "reverse", "round", "search", "searchdecl", "searchpair", "searchpairpos", "searchpos", "server2client", "serverlist", "setbufvar", "setcmdpos", "setline", "setloclist", "setmatches", "setpos", "setqflist", "setreg", "settabwinvar", "setwinvar", "shellescape", "simplify", "sin", "sort", "soundfold", "spellbadword", "spellsuggest", "split", "sqrt", "str2float", "str2nr", "strftime", "stridx", "string", "strlen", "strpart", "strridx", "strtrans", "submatch", "substitute", "synID", "synIDattr", "synIDtrans", "synstack", "system", "tabpagebuflist", "tabpagenr", "tabpagewinnr", "taglist", "tagfiles", "tempname", "tolower", "toupper", "tr", "trunc", "type", "values", "virtcol", "visualmode", "winbufnr", "wincol", "winheight", "winline", "winnr", "winrestcmd", "winrestview", "winsaveview", "winwidth", "writefile"]
+}, 
+    'OPERATORS' : ["!", "%", "&", "*", "|", "/", "<", ">", "^", "-", "+", "~", "?", ":", "$", "@", "."], 
+    'DELIMITERS' : [ '(', ')', '[', ']', '{', '}' ], 
+    'STYLES' : { 
+        'COMMENTS' : 'color: #adadad;', 
+        'QUOTESMARKS' : 'color: #C5A22D;', 
+        'KEYWORDS' : { 
+        'keywordgroup1': 'color: #804040;',
+        'keywordgroup2': 'color: #668080;',
+        'keywordgroup3': 'color: #25BB4D;'    }, 
+       'OPERATORS' : 'color: #000000;', 
+        'DELIMITERS' : 'color: #000000;' 
+    } 
+}; 

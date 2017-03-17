@@ -1,0 +1,338 @@
+# Translation of RokoPhoto Lite in Chinese (China)
+# This file is distributed under the same license as the RokoPhoto Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-04 16:33:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: RokoPhoto Lite\n"
+
+#. Description of the plugin/theme
+msgid "RokoPhoto Lite is an elegant WordPress theme for photographers, writers, and bloggers. This design focuses on your content and is perfect for an elegant blog site."
+msgstr "RokoPhoto Lite 是一个优雅的 WordPress 主题，适用于摄影师、作家和博客作者。这个设计专注于您的内容，完美契合于一个优雅的博客网站。"
+
+#: footer.php:47
+msgid "Google+"
+msgstr "Google+"
+
+#: footer.php:51
+msgid "Instagram"
+msgstr "Instagram"
+
+#: footer.php:35
+msgid "Behance"
+msgstr "Behance"
+
+#: footer.php:39
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: footer.php:43
+msgid "Flickr"
+msgstr "Flickr"
+
+#: footer.php:31
+msgid "Twitter"
+msgstr "Twitter"
+
+#: footer.php:27
+msgid "Facebook"
+msgstr "Facebook"
+
+#: functions.php:518
+msgid "Sidebar top"
+msgstr "工具栏顶端"
+
+#: functions.php:520 functions.php:529
+msgid "Widgets in this area will be shown on all posts and pages."
+msgstr "这个区域的微件将会被显示在所有文章和页面上。"
+
+#: functions.php:527
+msgid "Sidebar bottom"
+msgstr "工具栏底端"
+
+#: loop-meta.php:60
+msgid "Ouch!"
+msgstr "啊！"
+
+#: loop-meta.php:56
+msgid "Archives"
+msgstr "归档"
+
+#: loop-meta.php:49
+msgid "Y"
+msgstr "Y年"
+
+#: header.php:60
+msgid "Welcome to"
+msgstr "欢迎来到"
+
+#: loop-meta.php:11
+msgid "Home / <a href=\"%2$s\">%1$s</a> / %3$s"
+msgstr "主页 / <a href=\"%2$s\">%1$s</a> / %3$s"
+
+#: loop-meta.php:15 loop-meta.php:21
+msgid "Home / %1$s"
+msgstr "主页/ %1$s"
+
+#: loop-meta.php:39
+msgid "Posts By: %1$s"
+msgstr "文章来自: %1$s"
+
+#: loop-meta.php:45
+msgid "F d, Y"
+msgstr "F d, Y"
+
+#: loop-meta.php:47
+msgid "F Y"
+msgstr "F Y"
+
+#: functions.php:504
+msgid "View PRO version"
+msgstr "查看专业版"
+
+#: functions.php:505
+msgid "Leave us a review(it will help us)"
+msgstr "给我们一个评论吧（这将给我们非常大的帮助）"
+
+#: header.php:27
+msgid "Toggle Navigation"
+msgstr "切换导航"
+
+#: functions.php:488
+msgid "Footer Copyrights"
+msgstr "页脚版权"
+
+#: functions.php:503
+msgid "Documentation"
+msgstr "文档"
+
+#: functions.php:399
+msgid "Behance URL"
+msgstr "Behance 网址"
+
+#: functions.php:412
+msgid "Dribbble URL"
+msgstr "Dribbble 网址"
+
+#: functions.php:425
+msgid "Flickr URL"
+msgstr "Flickr网址"
+
+#: functions.php:438
+msgid "Google + URL"
+msgstr "Google + 网址"
+
+#: functions.php:451
+msgid "Instagram URL"
+msgstr "Instagram 网址"
+
+#: functions.php:386
+msgid "Twitter URL"
+msgstr "Twitter 网址"
+
+#: functions.php:321
+msgid "Site Logo Image"
+msgstr "Site 标识图片"
+
+#: functions.php:334
+msgid "Sub-Header Title"
+msgstr "子标题"
+
+#: functions.php:347
+msgid "Social Box Label"
+msgstr "社交盒子标签"
+
+#: functions.php:360
+msgid "Social Box Text"
+msgstr "社交盒子文本内容"
+
+#: functions.php:373
+msgid "Facebook URL"
+msgstr "Facebook 网址"
+
+#: functions.php:214
+msgid "Sub-Header"
+msgstr "子标题"
+
+#: functions.php:219
+msgid "Frontpage: Slider"
+msgstr "页脚：幻灯片"
+
+#: functions.php:234
+msgid "Frontpage: Vision"
+msgstr "页脚：视觉效果"
+
+#: functions.php:249
+msgid "Frontpage: Portfolio"
+msgstr "页脚：代表作"
+
+#: functions.php:264
+msgid "Frontpage: Ribbon"
+msgstr "页脚：功能区"
+
+#: functions.php:279
+msgid "Frontpage: About us"
+msgstr "页脚：关于我们"
+
+#: functions.php:294
+msgid "Frontpage: Contact"
+msgstr "页脚：联系方式"
+
+#: functions.php:311
+msgid "Footer"
+msgstr "页脚"
+
+#: functions.php:168
+msgid "Check out the <a href=\"https://themeisle.com/themes/rokophoto/\">PRO version</a> add a Slider on frontpage!"
+msgstr "查看<a href=\"https://themeisle.com/themes/rokophoto/\">专业版</a> 给页脚添加一个幻灯片！"
+
+#: functions.php:175
+msgid "Check out the <a href=\"https://themeisle.com/themes/rokophoto/\">PRO version</a> add a Vision Slider on frontpage!"
+msgstr "查看<a href=\"https://themeisle.com/themes/rokophoto/\">专业版</a> 给页脚添加一个Vision Slider！"
+
+#: functions.php:182
+msgid "Check out the <a href=\"https://themeisle.com/themes/rokophoto/\">PRO version</a> add a Portfolio section on frontpage!"
+msgstr "查看<a href=\"https://themeisle.com/themes/rokophoto/\">专业版</a> 给页脚添加一个代表作区段！"
+
+#: functions.php:189
+msgid "Check out the <a href=\"https://themeisle.com/themes/rokophoto/\">PRO version</a> add a Ribbon section on frontpage!"
+msgstr "查看<a href=\"https://themeisle.com/themes/rokophoto/\">专业版</a> 给页脚添加一个功能区！"
+
+#: functions.php:196
+msgid "Check out the <a href=\"https://themeisle.com/themes/rokophoto/\">PRO version</a> add an About us section on frontpage!"
+msgstr "查看<a href=\"https://themeisle.com/themes/rokophoto/\">专业版</a> 给页脚添加一个关于我们区段！"
+
+#: functions.php:203
+msgid "Check out the <a href=\"https://themeisle.com/themes/rokophoto/\">PRO version</a> add a Contact section on frontpage!"
+msgstr "查看 <a href=\"https://themeisle.com/themes/rokophoto/\">专业版</a> 给页脚添加一个联系方式区段！"
+
+#: functions.php:209
+msgid "Site Logo"
+msgstr "网站标志"
+
+#: functions.php:139
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正等待审核。"
+
+#: functions.php:134
+msgid "on"
+msgstr "在"
+
+#: functions.php:133
+msgid "%s"
+msgstr "%s"
+
+#: functions.php:102
+msgid "Home"
+msgstr "首页"
+
+#: footer.php:6
+msgid "Follow Me"
+msgstr "跟随我"
+
+#: footer.php:7
+msgid "To get the latest update of me and my works"
+msgstr "获取我的作品的最新更新"
+
+#: footer.php:67
+msgid "RokoPhoto Lite. All Rights Reserved"
+msgstr "RokoPhoto Lite. 保留一切权利。"
+
+#. #-#-#-#-#  rokophoto-lite.pot (RokoPhoto Lite 1.1.4)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: footer.php:67
+msgid "RokoPhoto Lite"
+msgstr "RokoPhoto Lite"
+
+#: footer.php:67
+msgid " powered by"
+msgstr "提供者"
+
+#: functions.php:45
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: content.php:22
+msgid "Read More"
+msgstr "阅读更多"
+
+#: content-single.php:7 content.php:7
+msgid "Post By:"
+msgstr "供稿者："
+
+#: content-single.php:8 content.php:8
+msgid "Date:"
+msgstr "日期："
+
+#: content-single.php:9 content.php:9
+msgid "Category:"
+msgstr "分类："
+
+#: content-none.php:11
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "我们可能无法找到您需要的内容。或许搜索功能可以帮到您。"
+
+#: content-none.php:8
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词再试。"
+
+#: content-none.php:6
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布第一篇文章了？<a href=\"%1$s\">从这里开始</a>。"
+
+#: comments.php:76
+msgid "Your Website"
+msgstr "您的网站"
+
+#: comments.php:83
+msgid "Your Message"
+msgstr "您的信息"
+
+#: content-none.php:4
+msgid "Nothing Found"
+msgstr "未找到"
+
+#: comments.php:72
+msgid "Your Email"
+msgstr "您的邮箱"
+
+#: comments.php:68
+msgid "Your Name"
+msgstr "您的姓名"
+
+#: comments.php:48
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: comments.php:43
+msgid "Newer Comments &rarr;"
+msgstr "较新评论 &rarr;"
+
+#: comments.php:42
+msgid "&larr; Older Comments"
+msgstr "&larr; 早期评论"
+
+#: comments.php:41
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:20
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "《%2$s》上有%1$s条评论"
+
+#. Theme URI of the plugin/theme
+msgid "https://themeisle.com/themes/rokophoto-lite/"
+msgstr "https://themeisle.com/themes/rokophoto-lite/"
+
+#. Author of the plugin/theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Author URI of the plugin/theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"

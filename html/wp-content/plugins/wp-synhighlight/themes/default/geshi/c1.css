@@ -1,0 +1,30 @@
+/**
+ * GeSHi Dynamically Generated Stylesheet
+ * --------------------------------------
+ * Dynamically generated stylesheet for c1
+ * CSS class: , CSS id: 
+ * GeSHi (C) 2004 - 2007 Nigel McNie, 2007 - 2008 Benny Baumann
+ * (http://qbnz.com/highlighter/ and http://geshi.org/)
+ * --------------------------------------
+ */
+.c1 .de1, .c1 .de2 {font: normal normal 1em/1.2em monospace; margin:0; padding:0; background:none; vertical-align:top;}
+.c1  {font-family:monospace;}
+.c1 .imp {font-weight: bold; color: red;}
+.c1 li, .c1 .li1 {font-weight: normal; vertical-align:top;}
+.c1 .ln {width:1px;text-align:right;margin:0;padding:0 2px;vertical-align:top;}
+.c1 .li2 {font-weight: bold; vertical-align:top;}
+.c1 .kw1 {color: red;}
+.c1 .kw2 {color: red;}
+.c1 .kw3 {color: #800000;}
+.c1 .kw4 {color: red;}
+.c1 .kw5 {color: red;}
+.c1 .co1 {color: green;}
+.c1 .coMULTI {color: green; font-style: italic;}
+.c1 .es0 {color: #000099; font-weight: bold;}
+.c1 .br0 {color: blue;}
+.c1 .sy0 {color: blue;}
+.c1 .st0 {color: blue;}
+.c1 .nu0 {color: blue;}
+.c1 .me1 {color: blue;}
+.c1 .ln-xtra, .c1 li.ln-xtra, .c1 div.ln-xtra {background-color: #ffc;}
+.c1 span.xtra { display:block; }

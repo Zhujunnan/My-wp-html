@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 汉化插件\n"
+"POT-Creation-Date: 2013-05-13 17:35+0800\n"
+"PO-Revision-Date: 2013-05-13 17:35+0800\n"
+"Last-Translator: Rilun Chen <734500780@qq.com>\n"
+"Language-Team: itluren.com <734500780@qq.com>\n"
+"Language: 中文\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: I:\\xampp\\htdocs\\vivian\\wp-content\\plugins"
+"\\Comment_Filter\\\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: itluren-comment-filter.php:31
+msgid ""
+"Congratulations on installing wp-itluren-comment-filter successfully,Please "
+"go to "
+msgstr "恭喜你成功地安装了wp-itluren-comment-filter插件，请打开"
+
+#: itluren-comment-filter.php:31
+msgid "the Setting Page of wp-itluren-comment-filter"
+msgstr "wp-itluren-comment-filter设置页面"
+
+#: itluren-comment-filter.php:31
+msgid " to set configuration items.Thank your for your support！"
+msgstr "做好相关设置。如果有问题，请到www.itluren.com提出！！"
+
+#: itluren-comment-filter.php:307
+msgid "Updataed！"
+msgstr "已更新！"
+
+#: itluren-comment-filter.php:318
+msgid "wp-itluren-comment-filter is developed by"
+msgstr "wp-itluren-comment-filter由"
+
+#: itluren-comment-filter.php:318
+msgid "."
+msgstr "独立开发，如有问题，请访问www.itluren.com咨询！"
+
+#: itluren-comment-filter.php:322
+msgid "Most Comments Times Daily"
+msgstr "每日每人评论上限"
+
+#: itluren-comment-filter.php:323 itluren-comment-filter.php:348
+msgid "Please type a number"
+msgstr "请输入一个数字"
+
+#: itluren-comment-filter.php:324
+msgid ""
+"Please type a number to limit the daily comment count of everyone.<b>Do not "
+"enter anything or enter 0 if you decide not to limit the comment number</b>."
+msgstr ""
+"请输入一个数字确定每人每日最多评论次数，<b>如果不限制，请输入0或者留空</b>"
+
+#: itluren-comment-filter.php:327
+msgid "Nickname Backlist"
+msgstr "评论昵称黑名单列表"
+
+#: itluren-comment-filter.php:329
+msgid ""
+"Type the nickname limited(if a user use the nickname or a similar nickname,"
+"the comment will be banned to submit).<b>Please ensure that two nicknames "
+"are separated by '||'</b>."
+msgstr ""
+"请输入要限制使用的昵称，如果评论时昵称完全等同或者相似于列表中的某个昵称，将"
+"会被禁止提交…<b>两个不同昵称之间用||隔开</b>"
+
+#: itluren-comment-filter.php:332
+msgid "Email Backlist"
+msgstr "评论邮箱黑名单列表"
+
+#: itluren-comment-filter.php:334
+msgid ""
+"Type the list of emails limited(if the user email is included in the list,"
+"the comment will be banned to submit).<b>Please ensure that two emails are "
+"separated by '||'</b>."
+msgstr ""
+"请输入要限制使用的邮箱，如果评论时邮箱完全等同于列表中的某个邮箱，将会被禁止"
+"提交……<b>两个不同邮箱之间用||隔开</b>"
+
+#: itluren-comment-filter.php:337
+msgid "Website Backlist"
+msgstr "评论网址黑名单列表"
+
+#: itluren-comment-filter.php:339
+msgid ""
+"Type the list of sites limited(if the user website is included in the list,"
+"the comment will be banned to submit).<b>Please ensure that two sites are "
+"separated by '||'</b>."
+msgstr ""
+"请输入要限制使用的网址，如果评论时网址的顶级域名完全等同于列表中的某个网址的"
+"顶级域名，将会被禁止提交……<b>两个不同网址之间用||隔开</b>"
+
+#: itluren-comment-filter.php:342
+msgid "Content Fragment Backlist"
+msgstr "评论内容片段黑名单"
+
+#: itluren-comment-filter.php:344
+msgid ""
+"Type the content fragments limited(if a user use the content fragment or a "
+"similar content fragment,the comment will be banned to submit).<b>Please "
+"ensure that two content fragments are separated by '||'</b>."
+msgstr ""
+"请输入要限制使用的内容片断，如果评论时内容完全等同或者相似于列表中的某个内容"
+"片段，将会被禁止提交……<b>两个不同内容片断之间用||隔开</b>"
+
+#: itluren-comment-filter.php:347
+msgid "How long comment should be at least."
+msgstr "评论内容最小字数限制"
+
+#: itluren-comment-filter.php:349
+msgid ""
+"Please type a number to place a word count on how long your comments should "
+"be.The comment will be banned to submit if the content too short."
+msgstr ""
+"请输入一个数字约束评论内容的数字，如果评论字数达不到设置的要求，将会无法提"
+"交……"
+
+#: itluren-comment-filter.php:352
+msgid "Comment user IPs Backlist"
+msgstr "评论IP黑名单列表"
+
+#: itluren-comment-filter.php:354
+msgid ""
+"Type the list of ips limited(if the user IP is included in the list,the "
+"comment will be banned to submit).<b>Please ensure that two IPs are "
+"separated by '||'</b>."
+msgstr ""
+"请输入要限制使用的IP，如果评论时用户IP完全等同于列表中的某个IP，将会被禁止提"
+"交……<b>两个不同昵称之间用||隔开</b>"
+
+#: itluren-comment-filter.php:357
+msgid "Visitor IPs Backlist"
+msgstr "访问IP黑名单列表"
+
+#: itluren-comment-filter.php:359
+msgid ""
+"Type the list of IPs limited(if the IP of visitor is included in the list,"
+"the visitor will be banned to access).<b>Please ensure that two IPs are "
+"separated by '||'</b>."
+msgstr ""
+"请输入要限制访问的IP，如果访问时用户完全等同于列表中的某个IP，该用户将会被禁"
+"止访问……<b>两个不同昵称之间用||隔开</b>"
+
+#: itluren-comment-filter.php:363
+msgid "Save"
+msgstr "保存"
+
+#~ msgid "Soory,you have commented too much.Please come back tomorrow……"
+#~ msgstr "对不起，你今天评论太多了，请明天再来吧……"
+
+#~ msgid ""
+#~ "Sorry,you have been banned to post comments.Please contact administrator "
+#~ "if you wanna learn more……"
+#~ msgstr "对不起，你已经被禁止评论，如果有疑问，请联系管理员……"
+
+#~ msgid ""
+#~ "Do not copy article content fragment for comment without other words."
+#~ "Please type the comment content carefully.……"
+#~ msgstr "请认真评论，不要单纯复制文章片段作为评论全部内容……"
+
+#~ msgid ""
+#~ "Sorry,your comment content is too short to submit.Please enter at least "
+#~ msgstr "你的评论字数太少，不足"
+
+#~ msgid " characters."
+#~ msgstr "个字，所以无法提交……"
+
+#~ msgid ""
+#~ "Sorry,you have been banned to access.Please contect us if you wanna lift "
+#~ "your ban……"
+#~ msgstr "对不起，你已经被禁止访问，如果想解禁，请联系管理员……"

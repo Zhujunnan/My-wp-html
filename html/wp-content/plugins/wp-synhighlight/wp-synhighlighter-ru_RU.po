@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-SynHighlight\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-10 17:02+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: FractalizeR <FractalizeR@yandex.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: modules/highlighter.php:24
+msgid "WP-SYNHIGHLIGHT PLUGIN: NOTHING TO HIGHLIGHT! PLEASE READ README.TXT IN PLUGIN FOLDER!"
+msgstr "WP-SYNHIGHLIGHT PLUGIN: НЕТ ТЕКСТА ДЛЯ ВЫДЕЛЕНИЯ! ПОЖАЛУЙСТА, ПРОЧТИТЕ README.TXT В ПАПКЕ С ПЛАГИНОМ!"
+
+#: modules/highlighter.php:32
+msgid "Code block"
+msgstr "Исходный код"
+
+#: modules/highlighter.php:192
+msgid "WP-SYNHIGHLIGHT PLUGIN: [FILESYNTAX SHORTCODE IS DISABLED IN PLUGIN SETTINGS! PLEASE READ README.TXT IN PLUGIN FOLDER!"
+msgstr "WP-SYNHIGHLIGHT PLUGIN: тег [filesyntax] отключен в настройках. См. README файл в корневой папке плагина."
+
+#: modules/highlighter.php:198
+msgid "WP-SYNHIGHLIGHT PLUGIN: NOTHING TO HIGHLIGHT USING FILESYNTAX TAG! FILENAME REQUIRED. PLEASE READ README.TXT IN PLUGIN FOLDER!"
+msgstr "WP-SYNHIGHLIGHT PLUGIN: для использование тега [filesyntax] требуется указание атрибута filename. См. README файл в корневой папке плагина"
+
+#: modules/highlighter.php:210
+msgid "WP-SYNHIGHLIGHT PLUGIN: SECURITY VIOLATION! FILENAME FOR [FILESYNTAX] TAG DOES NOT EXIST OR IS OUTSIDE ALLOWED DIR! PLEASE READ README.TXT IN PLUGIN FOLDER!"
+msgstr "WP-SYNHIGHLIGHT PLUGIN: ошибка безопасности. Файл для тега [filesyntax] отсутствует или находится вне разрешенного каталога. См. README файл в корневой папке плагина!"
+
+#: modules/highlighter.php:217
+msgid "WP-SYNHIGHLIGHT PLUGIN: SECURITY VIOLATION! FILENAME FOR [FILESYNTAX] TAG DOES HAVE ALLOWED EXTENSIONS! PLEASE READ README.TXT IN PLUGIN FOLDER!"
+msgstr "WP-SYNHIGHLIGHT PLUGIN: ошибка безопасности. Расширение файла для тега [filesyntax] не входит в список разрешенных в настройках. См. README файл в корневой папке плагина!"
+
+#: modules/on_install.php:14
+#: modules/settings.php:27
+msgid "Source code"
+msgstr "Исходный код"
+
+#: modules/on_install.php:32
+msgid "WP-SynHighligher plugin is almost ready."
+msgstr "WP-SynHighligher почти готов к работе"
+
+#: modules/on_install.php:34
+#, php-format
+msgid "You might want to <a href=\"%1$s\">adjust its settings</a> for it to work as you want."
+msgstr "Возможно, вы захотите <a href=\"%1$s\">изменить настройки плагина</a> чтобы он работал так, как вам этого хочется."
+
+#: modules/on_install.php:40
+msgid "You are using WP-SynHighligher plugin for quite long already. "
+msgstr "Вы используете плагин WP-SynHighligher уже довольно давно."
+
+#: modules/on_install.php:42
+#, php-format
+msgid "Thank you! You might want to <a href=\"%1$s\">donate to its development</a>, <a href=\"%2$s\">rate it</a>, <a href=\"%3$s\">ask a question about it or just tell us how you like it or not.</a>"
+msgstr "Спасибо! Возможно, вам захочется <a href=\"%1$s\">сделать пожертвование</a>, <a href=\"%2$s\">оценить плагин</a>, <a href=\"%3$s\">задать вопрос по его использованию или просто высказаться.</a>"
+
+#: modules/settings.php:257
+msgid "WP-SynHighlighter Settings"
+msgstr "Настройки WP-SynHighlighter"
+
+#: modules/settings.php:262
+msgid "<b>If you like this plugin, you can make a donation with WebMoney (R704473788938, Z590997805426), Yandex.Money (41001122895969), MoneyBookers (<a mailto:=\"FractalizeR@yandex.ru\">FractalizeR@yandex.ru</a>) or just send a special donation SMS directly <a href=\"http://www.fractalizer.ru\" target=\"_blank\">from my website</a> (just click that read SMS Donate button and follow instructions)<br /><a href=\"https://www.moneybookers.com/app/send.pl\" target=\"_blank\"><img src=\"../wp-content/plugins/wp-synhighlight/themes/default/images/moneybookers.gif\"></a></b>"
+msgstr "<b>Если вам понравился этот плагин, вы можете поддержать разработку с помощью WebMoney (R704473788938, Z590997805426), Yandex.Money (41001122895969), MoneyBookers (FractalizeR@yandex.ru) или просто послав специальную SMS прямо <a href=\"http://ru.fractalizer.ru\" target=\"_blank\">с моего вебсайта</a> (просто кликните по красной кнопке SMS Donate и следуйте инструкциям)</b>"
+
+#: modules/settings.php:272
+msgid "Enable code highlighting in comments"
+msgstr "Разрешить подсветку кода в комментариях"
+
+#: modules/settings.php:283
+msgid "Disable EditArea (realtime code highlighting in GUI)"
+msgstr "Отключить EditArea (редактор исходного кода с подсветкой синтаксиса в редакторе)"
+
+#: modules/settings.php:294
+msgid "Use this theme folder"
+msgstr "Использовать оформление из этой папки"
+
+#: modules/settings.php:298
+msgid "The theme folder to use for block styling"
+msgstr "Папка темы для оформления блока с кодом"
+
+#: modules/settings.php:311
+msgid "Default code block title"
+msgstr "Заголовок блока с кодом по умолчанию"
+
+#: modules/settings.php:322
+msgid "Default line numbering style"
+msgstr "Стиль номеров строк по умолчанию"
+
+#: modules/settings.php:331
+#: modules/settings.php:382
+#: modules/settings.php:439
+#: modules/settings.php:492
+msgid "Geshi default"
+msgstr "как в geshi по умолчанию"
+
+#: modules/settings.php:339
+#: modules/settings.php:447
+msgid "no"
+msgstr "нет"
+
+#: modules/settings.php:347
+msgid "normal"
+msgstr "обычные"
+
+#: modules/settings.php:355
+msgid "fancy"
+msgstr "необычные"
+
+#: modules/settings.php:362
+msgid "Line numbers by default start with"
+msgstr "Номера строк по умолчанию начинаются с"
+
+#: modules/settings.php:373
+msgid "Default container"
+msgstr "Контейнер по умолчанию"
+
+#: modules/settings.php:390
+msgid "none"
+msgstr "нет"
+
+#: modules/settings.php:398
+msgid "DIV tag"
+msgstr "тег DIV"
+
+#: modules/settings.php:406
+msgid "PRE tag"
+msgstr "тег PRE"
+
+#: modules/settings.php:414
+msgid "valid PRE tag"
+msgstr "валидный тег PRE"
+
+#: modules/settings.php:422
+msgid "PRE and TABLE"
+msgstr "теги PRE и TABLE"
+
+#: modules/settings.php:429
+msgid "Change case of keywords by default"
+msgstr "Изменять регистр ключевых слов по умолчанию"
+
+#: modules/settings.php:455
+msgid "convert to uppercase"
+msgstr "преобразовывать в верхний регистр"
+
+#: modules/settings.php:464
+msgid "convert to lowercase"
+msgstr "преобразовывать в нижний регистр"
+
+#: modules/settings.php:472
+msgid "Default tab width"
+msgstr "Ширина табуляции по умолчанию"
+
+#: modules/settings.php:483
+msgid "Strict mode by default"
+msgstr "Строгий режим по умолчанию"
+
+#: modules/settings.php:500
+msgid "always"
+msgstr "всегда"
+
+#: modules/settings.php:508
+msgid "never"
+msgstr "никогда"
+
+#: modules/settings.php:516
+msgid "maybe"
+msgstr "иногда"
+
+#: modules/settings.php:523
+msgid "Default block state"
+msgstr "Состояние блока с кодом по умолчанию"
+
+#: modules/settings.php:532
+msgid "default"
+msgstr "по умолчанию"
+
+#: modules/settings.php:540
+msgid "expanded"
+msgstr "развернут"
+
+#: modules/settings.php:548
+msgid "collapsed"
+msgstr "свернут"
+
+#: modules/settings.php:555
+msgid "Styling type"
+msgstr "Тип оформления"
+
+#: modules/settings.php:564
+msgid "use inline styles"
+msgstr "встроенные стили"
+
+#: modules/settings.php:573
+msgid "use theme bundled css files"
+msgstr "внешние CSS файлы в папке темы"
+
+#: modules/settings.php:583
+msgid "embed styles into BODY (makes HTML invalid, browser-slow; see docs)"
+msgstr "внедрять стили (повреждает HTML, медленно отрисовывается браузером, см. документацию)"
+
+#: modules/settings.php:591
+#: modules/settings.php:595
+msgid "Code box height in pixels. 0 = use value from CSS"
+msgstr "Высота блока в пикселях. 0 = использовать значение из CSS"
+
+#: modules/settings.php:605
+msgid "Enable the use of [filesyntax] tag (see README for details)"
+msgstr "Разрешить использование тега [filesyntax] (см. README файл)"
+
+#: modules/settings.php:617
+msgid "Disable documentation links for keywords in highlighted source"
+msgstr "Отключить генерацию ссылок на документацию при подсветке синтаксиса"
+
+#: modules/settings.php:629
+msgid "Limit [filesyntax] tag to work with files from this folder only"
+msgstr "Ограничить работу тега [filesyntax] только файлами из этого каталога"
+
+#: modules/settings.php:634
+msgid "Only files from this folder will be available for highlighting using [filesyntax] shortcode tag. Required."
+msgstr "Действие тега [filesyntax] будет распространяться только на файлы в этой папке и ниже"
+
+#: modules/settings.php:645
+msgid "Limit [filesyntax] tag to files with these extensions only"
+msgstr "Ограничить работу тега [filesyntax] только файлами следующих расширений"
+
+#: modules/settings.php:650
+msgid "[filesyntax] tag will work only on files with these extensions (separate with spaces). Required."
+msgstr "Тег [filesyntax] будет работать только с файлами с данными расширениями (разделяйте расширения пробелами). Требуется."
+
+#: modules/settings.php:664
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: themes/default/block_template.php:42
+msgid "Click to show/hide code block"
+msgstr "Нажмите, чтобы показать или скрыть блок кода"
+
+#: themes/default/block_template.php:49
+msgid "Show code only"
+msgstr "Показать код отдельно"
+
+#: themes/default/block_template.php:51
+msgid "Print code"
+msgstr "Напечатать код"
+
+#: themes/default/block_template.php:53
+msgid "Show plugin information"
+msgstr "Показать информацию о плагине"
+
+#~ msgid "Root folder to enable file highlighting in"
+#~ msgstr "Разрешить работу тега [filesyntax] только в этой папке и ниже"
+

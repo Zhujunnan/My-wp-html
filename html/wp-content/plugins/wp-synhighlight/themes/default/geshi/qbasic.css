@@ -1,0 +1,26 @@
+/**
+ * GeSHi Dynamically Generated Stylesheet
+ * --------------------------------------
+ * Dynamically generated stylesheet for qbasic
+ * CSS class: , CSS id: 
+ * GeSHi (C) 2004 - 2007 Nigel McNie, 2007 - 2008 Benny Baumann
+ * (http://qbnz.com/highlighter/ and http://geshi.org/)
+ * --------------------------------------
+ */
+.qbasic .de1, .qbasic .de2 {font: normal normal 1em/1.2em monospace; margin:0; padding:0; background:none; vertical-align:top;}
+.qbasic  {font-family:monospace;}
+.qbasic .imp {font-weight: bold; color: red;}
+.qbasic li, .qbasic .li1 {font-weight: normal; vertical-align:top;}
+.qbasic .ln {width:1px;text-align:right;margin:0;padding:0 2px;vertical-align:top;}
+.qbasic .li2 {font-weight: bold; vertical-align:top;}
+.qbasic .kw1 {color: #a1a100;}
+.qbasic .kw3 {color: #000066;}
+.qbasic .co1 {color: #808080;}
+.qbasic .co2 {color: #808080;}
+.qbasic .es0 {color: #000099;}
+.qbasic .br0 {color: #66cc66;}
+.qbasic .sy0 {color: #66cc66;}
+.qbasic .st0 {color: #ff0000;}
+.qbasic .nu0 {color: #cc66cc;}
+.qbasic .ln-xtra, .qbasic li.ln-xtra, .qbasic div.ln-xtra {background-color: #ffc;}
+.qbasic span.xtra { display:block; }

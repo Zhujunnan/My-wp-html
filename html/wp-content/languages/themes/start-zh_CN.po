@@ -1,0 +1,264 @@
+# Translation of Start in Chinese (China)
+# This file is distributed under the same license as the Start package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-11-07 12:28:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Start\n"
+
+#. Theme Name of the plugin/theme
+msgid "Start"
+msgstr "开始"
+
+#. translators: %s: Name of current post
+#: template-parts/content.php:22
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "继续阅读%s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-page.php:18 template-parts/content-single.php:22
+#: template-parts/content.php:29
+msgid "Pages:"
+msgstr "页"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "我们可能无法找到您需要的内容。或许搜索功能可以帮到您。"
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词再试。"
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备好发布第一篇文章了？<a href=\"%1$s\">从这里开始</a>。"
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "未有发现"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "针对以下内容的搜索结果：%s"
+
+#: inc/template-tags.php:181
+msgid "Archives"
+msgstr "存档"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:179
+msgid "%1$s: %2$s"
+msgstr "%1$s：%2$s"
+
+#: inc/template-tags.php:175
+msgid "Archives: %s"
+msgstr "存档：%s"
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "聊天"
+
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "音频"
+
+#: inc/template-tags.php:168
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "状态"
+
+#: inc/template-tags.php:166
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "链接"
+
+#: inc/template-tags.php:164
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "引语"
+
+#: inc/template-tags.php:162
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "视频"
+
+#: inc/template-tags.php:160
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "图像"
+
+#: inc/template-tags.php:158
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "相册"
+
+#: inc/template-tags.php:156
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "日志"
+
+#: inc/template-tags.php:153
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "Y年n月j日"
+
+#: inc/template-tags.php:153
+msgid "Day: %s"
+msgstr "日期：%s"
+
+#: inc/template-tags.php:151
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "Y年n月"
+
+#: inc/template-tags.php:151
+msgid "Month: %s"
+msgstr "月份：%s"
+
+#: inc/template-tags.php:149
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: inc/template-tags.php:149
+msgid "Year: %s"
+msgstr "年份：%s"
+
+#: inc/template-tags.php:147
+msgid "Author: %s"
+msgstr "作者：%s"
+
+#: inc/template-tags.php:145
+msgid "Tag: %s"
+msgstr "标签：%s"
+
+#: inc/template-tags.php:143
+msgid "Category: %s"
+msgstr "分类：%s"
+
+#: inc/template-tags.php:126 template-parts/content-page.php:25
+msgid "Edit"
+msgstr "离开"
+
+#: inc/template-tags.php:122
+msgid "% Comments"
+msgstr "%条评论"
+
+#: inc/template-tags.php:122
+msgid "1 Comment"
+msgstr "一条评论"
+
+#: inc/template-tags.php:122
+msgid "Leave a comment"
+msgstr "发表回复"
+
+#: inc/template-tags.php:116
+msgid "Tagged %1$s"
+msgstr "标签：%1$s"
+
+#: inc/template-tags.php:110
+msgid "Posted in %1$s"
+msgstr "张贴在%1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:108 inc/template-tags.php:114
+msgid ", "
+msgstr "、"
+
+#: inc/template-tags.php:86
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "在 %s 上张贴"
+
+#: inc/template-tags.php:91
+msgctxt "post author"
+msgid "by %s"
+msgstr "由 %s"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "文章导航"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "较新文章"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "较旧的文章"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "文章导航"
+
+#: inc/extras.php:52
+msgid "Page %s"
+msgstr "第 %s 页"
+
+#: header.php:21
+msgid "Skip to content"
+msgstr "跳至内容"
+
+#: functions.php:81
+msgid "Sidebar"
+msgstr "边栏"
+
+#: functions.php:53 header.php:31
+msgid "Primary Menu"
+msgstr "主要菜单"
+
+#: footer.php:18
+msgid "Theme: %1$s by %2$s."
+msgstr "%1$s主题来自%2$s."
+
+#: footer.php:16
+msgid "Proudly powered by %s"
+msgstr "由 %s 强力驱动"
+
+#: footer.php:16
+msgid "http://wordpress.org/"
+msgstr "http://cn.wordpress.org/"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: comments.php:42 comments.php:63
+msgid "Newer Comments"
+msgstr "较新评论"
+
+#: comments.php:41 comments.php:62
+msgid "Older Comments"
+msgstr "较早评论"
+
+#: comments.php:38 comments.php:59
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "《%2$s》有%1$s个想法"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "试试在月度归档中寻找。%1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "常用分类目录"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr " 看起来这个位置没有内容，试试下面的链接或搜索一下或许有帮助。"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "有点尴尬诶！该页无法显示。"

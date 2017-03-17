@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RokoPhoto Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-08-20 14:06+0200\n"
+"PO-Revision-Date: 2015-08-20 14:06+0200\n"
+"Last-Translator: \n"
+"Language-Team: themeisle <friends@themeisle.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:42
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:43
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:68
+msgid "Your Name"
+msgstr ""
+
+#: comments.php:72
+msgid "Your Email"
+msgstr ""
+
+#: comments.php:76
+msgid "Your Website"
+msgstr ""
+
+#: comments.php:83
+msgid "Your Message"
+msgstr ""
+
+#: content-none.php:6
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: footer.php:6
+msgid "Follow Me"
+msgstr ""
+
+#: footer.php:7
+msgid "To get the latest update of me and my works"
+msgstr ""
+
+#: footer.php:57
+msgid "RokoPhoto Lite. All Rights Reserved"
+msgstr ""
+
+#: functions.php:43
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:97
+msgid "Home"
+msgstr ""
+
+#: functions.php:128
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions.php:163
+msgid "Check out the <a href=\"https://themeisle.com/themes/rokophoto/\">PRO version</a> add a Slider on frontpage!"
+msgstr ""
+
+#: functions.php:170
+msgid "Check out the <a href=\"https://themeisle.com/themes/rokophoto/\">PRO version</a> add a Vision Slider on frontpage!"
+msgstr ""
+
+#: functions.php:177
+msgid "Check out the <a href=\"https://themeisle.com/themes/rokophoto/\">PRO version</a> add a Portfolio section on frontpage!"
+msgstr ""
+
+#: functions.php:184
+msgid "Check out the <a href=\"https://themeisle.com/themes/rokophoto/\">PRO version</a> add a Ribbon section on frontpage!"
+msgstr ""
+
+#: functions.php:191
+msgid "Check out the <a href=\"https://themeisle.com/themes/rokophoto/\">PRO version</a> add an About us section on frontpage!"
+msgstr ""
+
+#: functions.php:198
+msgid "Check out the <a href=\"https://themeisle.com/themes/rokophoto/\">PRO version</a> add a Contact section on frontpage!"
+msgstr ""
+
+#: functions.php:204
+msgid "Site Logo"
+msgstr ""
+
+#: functions.php:209
+msgid "Sub-Header"
+msgstr ""
+
+#: functions.php:214
+msgid "Frontpage: Slider"
+msgstr ""
+
+#: functions.php:229
+msgid "Frontpage: Vision"
+msgstr ""
+
+#: functions.php:244
+msgid "Frontpage: Portfolio"
+msgstr ""
+
+#: functions.php:259
+msgid "Frontpage: Ribbon"
+msgstr ""
+
+#: functions.php:274
+msgid "Frontpage: About us"
+msgstr ""
+
+#: functions.php:289
+msgid "Frontpage: Contact"
+msgstr ""
+
+#: functions.php:306
+msgid "Footer"
+msgstr ""
+
+#: functions.php:316
+msgid "Site Logo Image"
+msgstr ""
+
+#: functions.php:329
+msgid "Sub-Header Title"
+msgstr ""
+
+#: functions.php:342
+msgid "Social Box Label"
+msgstr ""
+
+#: functions.php:355
+msgid "Social Box Text"
+msgstr ""
+
+#: functions.php:368
+msgid "Facebook URL"
+msgstr ""
+
+#: functions.php:381
+msgid "Twitter URL"
+msgstr ""
+
+#: functions.php:394
+msgid "Behance URL"
+msgstr ""
+
+#: functions.php:407
+msgid "Dribbble URL"
+msgstr ""
+
+#: functions.php:420
+msgid "Flickr URL"
+msgstr ""
+
+#: functions.php:433
+msgid "Google + URL"
+msgstr ""
+
+#: functions.php:446
+msgid "Instagram URL"
+msgstr ""
+
+#: functions.php:459
+msgid "Footer Copyrights"
+msgstr ""
+
+#: functions.php:474
+msgid "Documentation"
+msgstr ""
+
+#: functions.php:475
+msgid "View PRO version"
+msgstr ""
+
+#: functions.php:476
+msgid "Leave us a review(it will help us)"
+msgstr ""
+
+#: header.php:60
+msgid "Welcome to"
+msgstr ""
+
+#: loop-meta.php:11
+#, php-format
+msgid "Home / <a href=\"%2$s\">%1$s</a> / %3$s"
+msgstr ""
+
+#: loop-meta.php:15
+#: loop-meta.php:21
+#, php-format
+msgid "Home / %1$s"
+msgstr ""
+
+#: loop-meta.php:39
+#, php-format
+msgid "Posts By: %1$s"
+msgstr ""
+
+#: loop-meta.php:45
+msgid "F d, Y"
+msgstr ""
+
+#: loop-meta.php:47
+msgid "F Y"
+msgstr ""
+
+#: loop-meta.php:49
+msgid "Y"
+msgstr ""
+
